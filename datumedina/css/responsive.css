@@ -73,6 +73,15 @@
     .sfp-container {
         max-height: 450px;
     }
+
+    #pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a {
+        width: 42px;
+        height: 42px;
+      }
+      #pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a svg {
+        width: 22px;
+        height: 22px;
+      }
 }
 
 @media (max-width: 768px){
