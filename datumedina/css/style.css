@@ -836,7 +836,25 @@ ul.wsp-pages-list li ul li{
 
 /* Accessibility plugin */
 
-#acwp-toolbar-btn {
-    top: 120px !important;
-    left: 20px !important;
-}
+
+#pojo-a11y-toolbar.pojo-a11y-toolbar-left {
+    bottom: 15px;
+  }
+  #pojo-a11y-toolbar.pojo-a11y-toolbar-left .pojo-a11y-toolbar-toggle {
+    bottom: 0;
+  }
+  #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a {
+    font-size: 100% !important;
+  }
+  #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a .pojo-a11y-toolbar-icon {
+    padding-inline-end: 10px;
+  }
+  
+  #pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a {
+    width: 46px;
+    height: 46px;
+  }
+  #pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a svg {
+    width: 26px;
+    height: 26px;
+  }
