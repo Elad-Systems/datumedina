@@ -1,0 +1,272 @@
+@media (max-width: 767px){
+
+}
+
+@media (max-width: 991px){
+    .MobileMenu{
+        display: inline-block; 
+        cursor: pointer;
+    } 
+    .MainNav{
+        display: none;
+    }
+    .show-submenu,
+    .show-nav{
+        display: block;  
+    }
+    .StripHeader .Branding {
+        display: inline-block;
+        margin-top: 11px;
+    }
+    .StripHeader .Branding .LogoImg {
+        height: 60px;
+    }
+    .StripHeader ul > li {
+        display: block;
+    }
+    .StripHeader nav {
+        float: none;
+        padding: 10px 0;
+    }
+    .StripHeader ul > li > a {
+        line-height: 30px;
+        margin-bottom: 3px;
+        background-color: #0267A8; 
+    }
+    .StripHeader ul > li > a:focus,
+    .StripHeader ul > li > a:hover {
+        line-height: 30px;
+        margin-bottom: 3px;
+        background-color: #00ADEF; 
+    }
+    .StripHeader ul li ul.sub-menu {
+        width: 100%;
+    }
+    .StripHeader ul li ul.sub-menu li {
+        margin-left: 30px;
+    }
+    .StripHeader ul > li:hover ul.sub-menu{
+        display: none;
+    }
+    .StripHeader .Search input[type="text"]{
+        display: none;
+    }
+    .StripHeader .Search.mobile-search {
+        margin-top: -24px;
+    }
+    .StripHeader .Search.mobile-search input[type="text"] {
+        display: block !important;
+        margin-top: 0 !important;
+        width: 120px;
+    }
+    .StripHeader .Search .IconSearch{
+        position: absolute;
+        bottom: 5px;
+        left: 6px;
+    }
+    .home .widget_sp_image{  
+        margin-bottom: 20px;
+    }
+    .home .widget_sp_image:last-child {
+        margin-bottom: 0;
+    }
+    .sfp-container {
+        max-height: 450px;
+    }
+}
+
+@media (max-width: 768px){
+    
+    .attachment-contact_featured_image_size.wp-post-image{
+        margin-left: 0;
+        float: none;
+    }
+    .archive p#pbd-alp-load-posts{
+        float: none;
+    }
+    .active-tabs {
+        margin-bottom: 15px;
+        padding: 10px 10px;
+        color: #fff;
+    }
+    .active-tabs span.reset{
+        color: #fff;  
+    }
+    .active-tabs span a{
+        color: #fff;
+    }
+    .active-tabs span {
+        margin-left: 10px;
+        background-color: #00ADEF;
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    .active-tabs span.reset.active,
+    .active-tabs span.active{
+        background-color: #0075C0;  
+        border: 0;
+        border-radius: 0;   
+    }
+    .archive .category_description{
+        margin-bottom: 35px;
+    }
+    .archive #content {
+        margin-bottom: 35px;
+    }
+    html[dir=rtl] .gform_wrapper {
+        padding-right: 0 !important;
+    }
+    #gform_2 input:not([type=radio]):not([type=checkbox]):not([type=image]):not([type=file]) {
+        height: 34px;
+    }
+    .home .StripMain #gform_wrapper_2{
+        margin-bottom: 25px;
+    }
+    .archive .ajax_post_title h3,
+    .page-template-search-php .ajax_post_title h3,
+    .home .ajax_post_title h3{   
+        margin-top: 10px;
+    }
+    #gform_1 .gform_footer, #gform_1 .gform_page_footer {
+        padding-left: 0;
+    }
+    aside .widget.widget_sp_image {
+        text-align: center; 
+    }
+    .status-publish.has-post-thumbnail.hentry .contact_title {
+        margin-top: 5px;
+    }
+    .info-search select.contentscategories {
+        width: 100%;
+    }
+    .info-search input.start-date.datepicker.hasDatepicker, .info-search input.end-date.datepicker.hasDatepicker {
+        width: 49%;
+    }
+    .info-search input.start-date.datepicker.hasDatepicker{
+        float: right;
+        margin-left: 1%;
+        margin-right: 0;
+    }
+    .info-search input.end-date.datepicker.hasDatepicker{
+        float: left;
+        margin-right: 1%;  
+    }
+    .info-search label {
+        width: 32%;
+        margin-left: 2%;
+    }
+    .info-search label:nth-child(4n+0){
+        margin-left: 2%;
+    }
+    .info-search label:nth-child(3n+0){
+        margin-left: 0;
+    }
+    .info-search {
+        margin-bottom: 20px;
+    }  
+    .archive .breadcrumbWhite .ContainerBreadcrumbs {
+        display: none;
+    }
+    .ContainerBreadcrumbs {
+        display: none;
+    }
+    .single .status_row .single_post_subjects.tags{
+        display: block;
+        float: none;  
+    }
+    .single .status_row .post_date {
+        float: right;
+    }
+    span.share {
+        margin-left: 15px;
+        margin-right: 0;
+        float: right;
+    } 
+    span.tweeter {
+        float: right;
+    }
+    .SocialMedia {
+        display: block;
+        margin-top: 10px;
+    }
+    .metaslider .caption-wrap {
+        bottom: 0px !important;
+        right: 0px !important;
+        background-color: #fff !important;
+        color: #000 !important;
+        width: 100% !important;
+    }
+    .metaslider .caption {
+        padding: 3px 10px;
+        font-size: 20px;
+        line-height: 25px;
+        text-align: right;
+    }
+
+}    
+
+@media (max-width: 991px){
+    .archive .category_description {
+        margin-top: 0px;
+    }
+    .FooterLogo {
+        margin-bottom: 20px;
+        margin-top: 30px;  
+    }
+    .StripFooter .SubFooter ul{
+        text-align: center;
+    }
+    .StripFooter .SubFooter ul li {
+        margin-left: 8px;
+    }
+    .SubFooter .CreditContainer{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .CreditProfile {
+        float: none;
+    }
+}
+
+@media screen and (max-width: 796px) and (min-width: 769px){
+    .StripMain.Fixed {
+        margin-top: 114px;
+    }
+}
+
+@media screen and (max-width: 991px) and (min-width: 768px){
+    header .container {
+        width: 100%;   
+    } 
+    .ColLogo{
+        padding-left: 0;
+        font-size: 16px;
+    }
+    .StripHeader .Branding .LogoImg{
+        margin-left: 0;
+    }
+    .StripHeader .Branding .TextSlogan {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 1199px) and (min-width: 991px){
+    .archive .category_description {
+        min-height: 147px;
+        margin-top: -150px;
+    }
+    .archive .breadcrumbWhite .ContainerBreadcrumbs {
+        top: 25px;
+    }
+    .archive .category_description h1 {
+        margin-bottom: 10px;
+    }
+    .archive .category_description p {
+        height: 39px;
+        width: 93%;
+    }
+    .StripHeader header > .container {
+        width: 100%;
+    }
+}
+

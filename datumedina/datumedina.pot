@@ -1,0 +1,414 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-28 12:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: archive.php:19 functions.php:59
+msgid "Read More"
+msgstr ""
+
+#. Name of the template
+#: homepage.php:2
+msgid "Homepage"
+msgstr ""
+
+#: homepage.php:25
+msgid "Central Subjects"
+msgstr ""
+
+#: homepage.php:36 functions.php:55
+msgid "More Categories"
+msgstr ""
+
+#. Name of the template
+msgid "Contact"
+msgstr ""
+
+#: functions.php:39
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:40
+msgid "Side Menu"
+msgstr ""
+
+#: functions.php:41
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:42
+msgid "Footer Utility Menu"
+msgstr ""
+
+#: functions.php:55
+msgid "Less Categories "
+msgstr ""
+
+#: functions.php:59
+msgid "Read Less"
+msgstr ""
+
+#: functions.php:93
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:95 functions.php:149
+msgid "Widgets in this area will be shown on the footer of site."
+msgstr ""
+
+#: functions.php:102
+msgid "Homepage Slider Sidebar"
+msgstr ""
+
+#: functions.php:104
+msgid "Widgets in this area will be shown on The Top Slider Homepage."
+msgstr ""
+
+#: functions.php:111
+msgid "Homepage Banners Sidebar"
+msgstr ""
+
+#: functions.php:113
+msgid "Widgets in this area will be shown on The Top Homepage."
+msgstr ""
+
+#: functions.php:120
+msgid "Homepage Right Sidebar"
+msgstr ""
+
+#: functions.php:122
+msgid "Widgets in this area will be shown on the Right Side Of Homepage."
+msgstr ""
+
+#: functions.php:129
+msgid "Homepage Left Sidebar"
+msgstr ""
+
+#: functions.php:131
+msgid "Widgets in this area will be shown on the Left Side Of Homepage."
+msgstr ""
+
+#: functions.php:138
+msgid "Contact Sidebar"
+msgstr ""
+
+#: functions.php:140
+msgid "Widgets in this area will be shown on the Contact Page."
+msgstr ""
+
+#: functions.php:147
+msgid "Footer Sidebar"
+msgstr ""
+
+#: single.php:25 inc/functions_general.php:40
+msgid "Subjects:"
+msgstr ""
+
+#: single.php:26 inc/functions_general.php:41
+msgid "Tags:"
+msgstr ""
+
+#. Name of the template
+#. Name of the template
+msgid "Information Center"
+msgstr ""
+
+#: search.php:52
+#, php-format
+msgid "Found %s Resultes"
+msgstr ""
+
+#: search.php:53
+msgid "Search Results"
+msgstr ""
+
+#: search.php:65
+msgid "Load More"
+msgstr ""
+
+#: inc/theme-taxonomy.php:5
+msgctxt "contacts General Name"
+msgid "contacts"
+msgstr ""
+
+#: inc/theme-taxonomy.php:6
+msgctxt "contacts Singular Name"
+msgid "contact"
+msgstr ""
+
+#: inc/theme-taxonomy.php:7 inc/theme-taxonomy.php:8
+msgid "Contacts"
+msgstr ""
+
+#: inc/theme-taxonomy.php:9
+msgid "Contacts Archives"
+msgstr ""
+
+#: inc/theme-taxonomy.php:10
+msgid "Contact Attributes"
+msgstr ""
+
+#: inc/theme-taxonomy.php:11
+msgid "Parent Contact:"
+msgstr ""
+
+#: inc/theme-taxonomy.php:12
+msgid "All Contacts"
+msgstr ""
+
+#: inc/theme-taxonomy.php:13
+msgid "Add New Contact"
+msgstr ""
+
+#: inc/theme-taxonomy.php:14
+msgid "Add New"
+msgstr ""
+
+#: inc/theme-taxonomy.php:15
+msgid "New Contact"
+msgstr ""
+
+#: inc/theme-taxonomy.php:16
+msgid "Edit Contact"
+msgstr ""
+
+#: inc/theme-taxonomy.php:17
+msgid "Update Contact"
+msgstr ""
+
+#: inc/theme-taxonomy.php:18
+msgid "View Contact"
+msgstr ""
+
+#: inc/theme-taxonomy.php:19
+msgid "View Contacts"
+msgstr ""
+
+#: inc/theme-taxonomy.php:20
+msgid "Search Contacts"
+msgstr ""
+
+#: inc/theme-taxonomy.php:21
+msgid "Not found"
+msgstr ""
+
+#: inc/theme-taxonomy.php:22
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/theme-taxonomy.php:23
+msgid "Featured Image"
+msgstr ""
+
+#: inc/theme-taxonomy.php:24
+msgid "Set featured image"
+msgstr ""
+
+#: inc/theme-taxonomy.php:25
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/theme-taxonomy.php:26
+msgid "Use as featured image"
+msgstr ""
+
+#: inc/theme-taxonomy.php:29
+msgid "contact"
+msgstr ""
+
+#: inc/theme-taxonomy.php:54
+msgid "Contact Categories"
+msgstr ""
+
+#: inc/theme-taxonomy.php:55
+msgid "Contact Category"
+msgstr ""
+
+#: inc/theme-taxonomy.php:57 inc/theme-taxonomy.php:91
+msgid "All Items"
+msgstr ""
+
+#: inc/theme-taxonomy.php:58 inc/theme-taxonomy.php:92
+msgid "Parent Item"
+msgstr ""
+
+#: inc/theme-taxonomy.php:59 inc/theme-taxonomy.php:93
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/theme-taxonomy.php:60 inc/theme-taxonomy.php:94
+msgid "New Item Name"
+msgstr ""
+
+#: inc/theme-taxonomy.php:61 inc/theme-taxonomy.php:95
+msgid "Add New Item"
+msgstr ""
+
+#: inc/theme-taxonomy.php:62 inc/theme-taxonomy.php:96
+msgid "Edit Item"
+msgstr ""
+
+#: inc/theme-taxonomy.php:63 inc/theme-taxonomy.php:97
+msgid "Update Item"
+msgstr ""
+
+#: inc/theme-taxonomy.php:64 inc/theme-taxonomy.php:98
+msgid "View Item"
+msgstr ""
+
+#: inc/theme-taxonomy.php:65 inc/theme-taxonomy.php:99
+msgid "Separate items with commas"
+msgstr ""
+
+#: inc/theme-taxonomy.php:66 inc/theme-taxonomy.php:100
+msgid "Add or remove items"
+msgstr ""
+
+#: inc/theme-taxonomy.php:67 inc/theme-taxonomy.php:101
+msgid "Choose from the most used"
+msgstr ""
+
+#: inc/theme-taxonomy.php:68 inc/theme-taxonomy.php:102
+msgid "Popular Items"
+msgstr ""
+
+#: inc/theme-taxonomy.php:69 inc/theme-taxonomy.php:103
+msgid "Search Items"
+msgstr ""
+
+#: inc/theme-taxonomy.php:70 inc/theme-taxonomy.php:104
+msgid "Not Found"
+msgstr ""
+
+#: inc/theme-taxonomy.php:71 inc/theme-taxonomy.php:105
+msgid "No items"
+msgstr ""
+
+#: inc/theme-taxonomy.php:72 inc/theme-taxonomy.php:106
+msgid "Items list"
+msgstr ""
+
+#: inc/theme-taxonomy.php:73 inc/theme-taxonomy.php:107
+msgid "Items list navigation"
+msgstr ""
+
+#: inc/theme-taxonomy.php:88
+msgid "Content Types"
+msgstr ""
+
+#: inc/theme-taxonomy.php:89
+msgid "Content Type"
+msgstr ""
+
+#: inc/search-form.php:8
+msgid "All Post Content"
+msgstr ""
+
+#: inc/search-form.php:30
+msgid "From-"
+msgstr ""
+
+#: inc/search-form.php:31
+msgid "To-"
+msgstr ""
+
+#: inc/search-form.php:33
+msgid "Search"
+msgstr ""
+
+#: inc/functions_contact.php:62
+msgid "Properties"
+msgstr ""
+
+#: inc/functions_contact.php:75
+msgid "Job Title"
+msgstr ""
+
+#. page_title
+#: inc/theme-options.php:17 inc/theme-options.php:18
+msgid "Theme Options"
+msgstr ""
+
+#. id
+#: inc/theme-options.php:54
+msgid "Homepage Properties"
+msgstr ""
+
+#. id
+#: inc/theme-options.php:60
+msgid "Homepage Max Featured Categories"
+msgstr ""
+
+#. id
+#: inc/theme-options.php:67
+msgid "Information center page id"
+msgstr ""
+
+#. id
+#: inc/theme-options.php:75
+msgid "Social Networks"
+msgstr ""
+
+#. id
+#: inc/theme-options.php:82
+msgid "YouTube"
+msgstr ""
+
+#. id
+#: inc/theme-options.php:90
+msgid "facebook"
+msgstr ""
+
+#. id
+#: inc/theme-options.php:98
+msgid "Twitter"
+msgstr ""
+
+#. id
+#: inc/theme-options.php:106
+msgid "Google+"
+msgstr ""
+
+#: inc/tax-meta-fields.php:6 inc/tax-meta-fields.php:22
+msgid "Featured Expose Position"
+msgstr ""
+
+#: inc/tax-meta-fields.php:10 inc/tax-meta-fields.php:28
+#: inc/tax-meta-fields.php:60
+msgid "Category Color"
+msgstr ""
+
+#: inc/tax-meta-fields.php:59
+msgid "Featured Order"
+msgstr ""
+
+#: inc/archive-load-posts.php:8
+msgid "Load more"
+msgstr ""
+
+#: inc/archive-load-posts.php:8
+msgid "Loading..."
+msgstr ""
+
+#: inc/load-posts.php:9
+msgid "All"
+msgstr ""
+
+#: inc/load-posts.php:105
+msgid "More"
+msgstr ""
+
+#. Name of the theme
+msgid "Dat U Medina Theme"
+msgstr ""
