@@ -35,11 +35,11 @@
                 }
                 if(isset($_REQUEST['post_tag'])){
                     //$tax_query['relation'] = 'AND';
-                    $tax_query[] = array('taxonomy'=>'post_tag','field' =>term_id, 'terms' => $_REQUEST['post_tag'] );
+                    $tax_query[] = array('taxonomy'=>'post_tag','field' =>'term_id', 'terms' => $_REQUEST['post_tag'] );
                 }
                 if(isset($_REQUEST['contentscategories']) && ($_REQUEST['contentscategories'] !=  -1)){
                     if(isset($_REQUEST['post_tag'])) $tax_query['relation'] = 'AND';
-                    $tax_query[] = array('taxonomy'=>'contentscategories','field' =>term_id, 'terms' => $_REQUEST['contentscategories'] );
+                    $tax_query[] = array('taxonomy'=>'contentscategories','field' =>'term_id', 'terms' => $_REQUEST['contentscategories'] );
                 }
                 //print_pr($tax_query);
             	$start_date =  date("jS F, Y", strtotime($_REQUEST['start-date'])).'  ';
